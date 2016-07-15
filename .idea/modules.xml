@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDaemonService-master/AndroidDaemonService-master.iml" filepath="$PROJECT_DIR$/AndroidDaemonService-master/AndroidDaemonService-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applaunchmode/applaunchmode.iml" filepath="$PROJECT_DIR$/applaunchmode/applaunchmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bimaptest/bimaptest.iml" filepath="$PROJECT_DIR$/bimaptest/bimaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaussianblur/gaussianblur.iml" filepath="$PROJECT_DIR$/gaussianblur/gaussianblur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roudimage/roudimage.iml" filepath="$PROJECT_DIR$/roudimage/roudimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sotest/sotest.iml" filepath="$PROJECT_DIR$/sotest/sotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wakelocktest/wakelocktest.iml" filepath="$PROJECT_DIR$/wakelocktest/wakelocktest.iml" />
+    </modules>
+  </component>
+</project>

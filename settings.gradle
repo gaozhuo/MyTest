@@ -1,0 +1,1 @@
+include ':app', ':AndroidDaemonService-master', ':sotest', ':roudimage', ':gaussianblur', ':test', ':applaunchmode', ':bimaptest', ':wakelocktest'
