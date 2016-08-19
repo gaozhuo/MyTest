@@ -3,15 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidDaemonService-master/AndroidDaemonService-master.iml" filepath="$PROJECT_DIR$/AndroidDaemonService-master/AndroidDaemonService-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/cordovaLib/CordovaLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/applaunchmode/applaunchmode.iml" filepath="$PROJECT_DIR$/applaunchmode/applaunchmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/bimaptest/bimaptest.iml" filepath="$PROJECT_DIR$/bimaptest/bimaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovaTest/cordovaTest.iml" filepath="$PROJECT_DIR$/cordovaTest/cordovaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovatest2/cordovatest2.iml" filepath="$PROJECT_DIR$/cordovatest2/cordovatest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogtest/dialogtest.iml" filepath="$PROJECT_DIR$/dialogtest/dialogtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/gaussianblur/gaussianblur.iml" filepath="$PROJECT_DIR$/gaussianblur/gaussianblur.iml" />
       <module fileurl="file://$PROJECT_DIR$/roudimage/roudimage.iml" filepath="$PROJECT_DIR$/roudimage/roudimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/sotest/sotest.iml" filepath="$PROJECT_DIR$/sotest/sotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackviewstudy/stackviewstudy.iml" filepath="$PROJECT_DIR$/stackviewstudy/stackviewstudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/wakelocktest/wakelocktest.iml" filepath="$PROJECT_DIR$/wakelocktest/wakelocktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewtest/webviewtest.iml" filepath="$PROJECT_DIR$/webviewtest/webviewtest.iml" />
     </modules>
   </component>
 </project>

@@ -1,37 +1,48 @@
 package com.example.sotest;
 
+import android.app.Activity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // 创建data/data目录
-        File file = getApplicationContext().getDir("lib", Context.MODE_PRIVATE);
-        String path = file.toString();
+//        File file = getApplicationContext().getDir("lib", Context.MODE_PRIVATE);
+//        String path = file.toString();
+//
+//        final File soFile = new File(path, "libgensee-log.so");
+//        if (!soFile.exists()) {
+//            copyFilesFassets(SecondActivity.this, "armeabi-v7a", path);
+//        }
 
-        final File soFile = new File(path, "libgensee-log.so");
-        if (!soFile.exists()) {
-            copyFilesFassets(MainActivity.this, "armeabi-v7a", path);
-            //System.load(soFile.getAbsolutePath());
-        }
+        String javaLibraryPath = System.getProperty("java.library.path");
+        Log.d("gaozhuo", "javaLibraryPath=" + javaLibraryPath);
 
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //System.loadLibrary("stlport_shared");
-                System.loadLibrary(soFile.getAbsolutePath());
+                System.loadLibrary("stlport_shared");
+                //System.loadLibrary("amapv304ex");
             }
         });
+
+//        findViewById(R.id.button2).setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+//                startActivity(intent);
+//            }
+//        });
+
     }
 
     //将旧目录中的文件全部复制到新目录
