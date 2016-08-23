@@ -1,3 +1,5 @@
-include ':app', ':AndroidDaemonService-master', ':sotest', ':roudimage', ':gaussianblur', ':test', ':applaunchmode', ':bimaptest', ':wakelocktest', ':dialogtest', ':stackviewstudy', ':cordovatest2', ':CordovaLib', ':webviewtest'
-include ':cordovaTest'
+include ':app', ':AndroidDaemonService-master', ':sotest', ':roudimage', ':gaussianblur', ':test', ':applaunchmode', ':bimaptest', ':wakelocktest', ':dialogtest', ':stackviewstudy', ':webviewtest'
 include ':cordovaLib'
+include ':cordovaTest'
+include ':cordovatest2'
+
