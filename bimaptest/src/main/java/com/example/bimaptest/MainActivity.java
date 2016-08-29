@@ -1,7 +1,9 @@
 package com.example.bimaptest;
 
 import android.os.Bundle;
+import android.os.Process;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
@@ -11,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Log.d("gaozhuo", "pid=" + Process.myPid());
 
 
 //        mImageView = (ImageView) findViewById(R.id.imageView);

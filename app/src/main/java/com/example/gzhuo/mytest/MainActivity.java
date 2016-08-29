@@ -23,17 +23,7 @@ public class MainActivity extends Activity {
         findViewById(R.id.button1).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                new Thread() {
-                    @Override
-                    public void run() {
-                        try {
-                            HttpURLConnection conn = (HttpURLConnection) new URL("http://www.baidu.com").openConnection();
-                            Log.d("gaozhuo","conn=" + conn);
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                    }
-                }.start();
+               test();
             }
         });
 
@@ -70,26 +60,6 @@ public class MainActivity extends Activity {
         return null;
     }
 
-    private void run2(String url) {
-        OkHttpClient client = new OkHttpClient();
-        final Request request = new Request.Builder().url(url).build();
-        Call call = client.newCall(request);
-        call.enqueue(new Callback() {
-            @Override
-            public void onFailure(Call call, IOException e) {
-
-            }
-
-            @Override
-            public void onResponse(Call call, Response response) throws IOException {
-                String htmlStr = response.body().string();
-                Log.d("gaozhuo", "htmlStr=" + htmlStr);
-            }
-
-        });
-
-
-    }
 
 
 }
