@@ -1,4 +1,4 @@
-include ':app', ':AndroidDaemonService-master', ':sotest', ':roudimage', ':gaussianblur', ':test', ':applaunchmode', ':bimaptest', ':wakelocktest', ':dialogtest', ':stackviewstudy', ':webviewtest'
+include ':app', ':AndroidDaemonService-master', ':sotest', ':roudimage', ':gaussianblur', ':test', ':applaunchmode', ':bimaptest', ':wakelocktest', ':dialogtest', ':stackviewstudy', ':webviewtest', ':rxjavatest', ':retrofittest', ':memoryleak', ':immersivestatusbar', ':fragmenttest', ':greendaotest'
 include ':cordovaLib'
 include ':cordovaTest'
 include ':cordovatest2'

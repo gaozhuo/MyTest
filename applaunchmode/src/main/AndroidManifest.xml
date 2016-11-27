@@ -8,9 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".AActivity"
-            android:launchMode="singleTask">
+        <activity android:name=".AActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,15 +17,14 @@
         </activity>
         <activity
             android:name=".BActivity"
-            android:launchMode="singleTask" />
+            android:launchMode="standard"/>
         <activity
-            android:taskAffinity="com.example.applaunchmode_2"
             android:name=".CActivity"
+            android:taskAffinity="com.example.applaunchmode_2"
             android:launchMode="standard"/>
         <activity
-            android:taskAffinity="com.example.applaunchmode_2"
             android:name=".DActivity"
-            android:launchMode="standard"/>
+            android:taskAffinity="com.example.applaunchmode_2" />
     </application>
 
 </manifest>
