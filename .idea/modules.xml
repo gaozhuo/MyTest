@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/applaunchmode/applaunchmode.iml" filepath="$PROJECT_DIR$/applaunchmode/applaunchmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/bimaptest/bimaptest.iml" filepath="$PROJECT_DIR$/bimaptest/bimaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameratest/cameratest.iml" filepath="$PROJECT_DIR$/cameratest/cameratest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovaLib/cordovaLib.iml" filepath="$PROJECT_DIR$/cordovaLib/cordovaLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovaTest/cordovaTest.iml" filepath="$PROJECT_DIR$/cordovaTest/cordovaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovatest2/cordovatest2.iml" filepath="$PROJECT_DIR$/cordovatest2/cordovatest2.iml" />
