@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/greendaotest/greendaotest.iml" filepath="$PROJECT_DIR$/greendaotest/greendaotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" filepath="$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/memoryleak/memoryleak.iml" filepath="$PROJECT_DIR$/memoryleak/memoryleak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissiontest/permissiontest.iml" filepath="$PROJECT_DIR$/permissiontest/permissiontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofittest/retrofittest.iml" filepath="$PROJECT_DIR$/retrofittest/retrofittest.iml" />
       <module fileurl="file://$PROJECT_DIR$/roudimage/roudimage.iml" filepath="$PROJECT_DIR$/roudimage/roudimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
