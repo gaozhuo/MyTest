@@ -9,7 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/bimaptest/bimaptest.iml" filepath="$PROJECT_DIR$/bimaptest/bimaptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cameratest/cameratest.iml" filepath="$PROJECT_DIR$/cameratest/cameratest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovaLib/cordovaLib.iml" filepath="$PROJECT_DIR$/cordovaLib/cordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovaLib/cordovaLib.iml" filepath="$PROJECT_DIR$/cordovaLib/cordovaLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovaTest/cordovaTest.iml" filepath="$PROJECT_DIR$/cordovaTest/cordovaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovaTest/cordovaTest.iml" filepath="$PROJECT_DIR$/cordovaTest/cordovaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cordovatest2/cordovatest2.iml" filepath="$PROJECT_DIR$/cordovatest2/cordovatest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/cordovatest2/cordovatest2.iml" filepath="$PROJECT_DIR$/cordovatest2/cordovatest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dialogtest/dialogtest.iml" filepath="$PROJECT_DIR$/dialogtest/dialogtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
@@ -17,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/greendaotest/greendaotest.iml" filepath="$PROJECT_DIR$/greendaotest/greendaotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" filepath="$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/memoryleak/memoryleak.iml" filepath="$PROJECT_DIR$/memoryleak/memoryleak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissiontest/permissiontest.iml" filepath="$PROJECT_DIR$/permissiontest/permissiontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/permissiontest/permissiontest.iml" filepath="$PROJECT_DIR$/permissiontest/permissiontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofittest/retrofittest.iml" filepath="$PROJECT_DIR$/retrofittest/retrofittest.iml" />
       <module fileurl="file://$PROJECT_DIR$/roudimage/roudimage.iml" filepath="$PROJECT_DIR$/roudimage/roudimage.iml" />
